@@ -1,0 +1,8 @@
+.myBorder{
+    border: solid 1px black;
+}
+
+li{
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: medium;
+}
